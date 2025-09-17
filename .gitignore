@@ -416,3 +416,18 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# SQLite database files
+*.sqlite
+*.db
+
+# Local app settings (if you add them)
+appsettings.Development.json
+
+# Log files
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
